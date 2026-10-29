@@ -29,20 +29,3 @@ h6 {
 .square .card-front {
 }
 */
-card-back {
-  background-image: url(blob://media-app/b563922b-8273-4ff7-9abf-10c41bb924ba) background-size;
-  cover;
-
-  background-repeat {
-    no repeat
-  }
-
-  background-postion {
-    bottom
-  }
-
-  ;
-  border-style: solid;
-  border-width: 10px;
-
-}
