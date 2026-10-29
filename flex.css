@@ -22,6 +22,7 @@ h6 {
 
 /* Your flexbox card styles go here! */
 .card-front {
+  display: flex;
 }
 
 /* Honors: styles for each card size, for example:
